@@ -1,7 +1,7 @@
 #Main.py
 
 #Tarea 2 Data Science
-#El profe recomienda validar siempre los datos.
+#El profe recomienda validar siempre los datos. Usar .loc (sirve para almacenar todo dentro de una lista).
 
 import pandas as pd
 import os
