@@ -1,6 +1,7 @@
 #Main.py
 
 #Tarea 2 Data Science
+#El profe recomienda validar siempre los datos.
 
 import pandas as pd
 import os
